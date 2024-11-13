@@ -36,14 +36,14 @@ This module implements a client for fetching and processing crop price data from
 To install this library, use pip:
 
 ```sh
-pip install crop-price-client
+pip install agritechtz-pycli
 ```
 
 Or, if you’re installing from source:
 
 ```sh
-git clone https://github.com/yourusername/crop-price-client.git
-cd crop-price-client
+git https://github.com/cloudnuttz/agritechtz-pycli.git
+cd https://github.com/cloudnuttz/agritechtz-pycli.git
 pip install .
 ```
 
