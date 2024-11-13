@@ -53,7 +53,7 @@ pip install .
 The CropPriceDataFrameBuilder class allows you to configure and retrieve crop price data as a pandas DataFrame. Here’s an example of how to use it:
 
 ```python
-from agritechtz import CropPriceDataFrameBuilder
+from agritechtz_cli import CropPriceDataFrameBuilder
 
 df = CropPriceDataFrameBuilder.of("Maize", "Rice") \
     .in_regions("Dar es saalam/Kinondoni", "Mbeya/Sido") \
