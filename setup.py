@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 with open("README.md", encoding="utf-8") as fd:
     setup(
         name="agritechtz-pycli",
-        version="1.0.2",
+        version="1.0.3",
         description="A client library for fetching and processing crop price data.",
         long_description=fd.read(),
         long_description_content_type="text/markdown",
