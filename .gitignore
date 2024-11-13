@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.out
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# PyPI distributions
+*.wheel
+*.tar.gz
+*.zip
+
+# Test and profile outputs
+.pytest_cache/
+.cache/
+*.prof
+*.dat
+
+# Documentation
+docs/_build/
+site/
+
+# Pyre type checker
+.pyre/
+
+# Mypy type checker
+.mypy_cache/
+
+# Local configuration files
+.env
+.env.*
+
+# Jupyter Notebook configurations
+.ipynb_checkpoints/
