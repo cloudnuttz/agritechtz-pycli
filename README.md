@@ -43,7 +43,7 @@ Or, if you’re installing from source:
 
 ```sh
 git https://github.com/cloudnuttz/agritechtz-pycli.git
-cd https://github.com/cloudnuttz/agritechtz-pycli.git
+cd agritechtz-pycli.git
 pip install .
 ```
 
