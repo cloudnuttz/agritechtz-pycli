@@ -13,7 +13,7 @@ import requests
 import tqdm
 
 # API URL endpoint
-URL = "http://localhost:4000/api/v1/crop-prices"
+URL = "http://http://18.233.138.7/api/v1/crop-prices"
 
 # Set up logging
 logger = logging.getLogger(__name__)
