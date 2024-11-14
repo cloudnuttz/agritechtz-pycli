@@ -39,8 +39,10 @@ class CropPriceFilterParams:
 
 class CropPriceDataFrameBuilder:
     """
-    Builder class for constructing a DataFrame from crop price data with configurable filtering parameters.
-    Supports chainable methods for specifying filtering options and initiates the data fetch process.
+    Builder class for constructing a DataFrame from crop price data with configurable
+    filtering parameters.
+    Supports chainable methods for specifying filtering options and initiates the data
+    fetch process.
     """
 
     def __init__(self):
