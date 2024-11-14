@@ -1,4 +1,4 @@
-# Crop Price Client in Tanzania
+# AgriTechTz API Client For the Crop Price Data in Tanzania
 
 This module implements a client for fetching and processing crop-price-time-series data from a REST API. It allows filtering by crop types, regions, districts, dates, and ordering. The data is fetched as a CSV, converted into a pandas DataFrame, and preprocessed for analysis.
 
