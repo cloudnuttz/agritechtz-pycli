@@ -58,7 +58,7 @@ The CropPriceDataFrameBuilder class allows you to configure and retrieve crop pr
 from agritechtz_cli import CropPriceDataFrameBuilder
 
 df = CropPriceDataFrameBuilder.of("Maize", "Rice") \
-    .in_regions("Dar es saalam/Kinondoni", "Mbeya/Sido") \
+    .in_regions("Dar-es-salaam/Kinondoni", "Mbeya/Sido") \
     .from_date("2023-01-01") \
     .to_date("2023-12-31") \
     .order_by("-ts") # Order data by date in descending order\
